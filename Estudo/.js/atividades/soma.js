@@ -18,3 +18,4 @@ rl.question("Digite o primeiro número: ", function(numero1) {
 });
 
 // fiz a logico porem para aprecer no terminal a ia que fez essa parte.
+// comando para rodar o arquivo: node soma.js"

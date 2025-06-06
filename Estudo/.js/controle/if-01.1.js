@@ -46,3 +46,5 @@ async function main() {
 }
 
 main();
+
+// comando para executar o código: node ./.js/controle/if-01.1.js
